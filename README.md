@@ -28,6 +28,6 @@ jupyter notebook
 
 ## More Information
 
-If you want to learn more about DIDPPy, plese see the [documentation](https://didppy.readthedocs.io/en/stable/).
+If you want to learn more about DIDPPy, please see the [documentation](https://didppy.readthedocs.io/en/stable/).
 
 If you want to know more about DIDP, please visit [our project page](https://didp.ai).
