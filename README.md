@@ -17,7 +17,7 @@ First, you need to download this repository. If you use [Git](https://git-scm.co
 git clone https://github.com/domain-independent-dp/didp-tutorial
 ```
 
-You may also [download this repository as a Zip archive](https://github.com/domain-independent-dp/didp-tutorial/archive/refs/heads/main.zip).
+You may also [download this repository as a ZIP archive](https://github.com/domain-independent-dp/didp-tutorial/archive/refs/heads/main.zip).
 
 To run the notebooks, you need to install [Python3](https://www.python.org/downloads/) and [Jupyter](https://jupyter.org/install). Once you are ready, run Jupyter at the repository root.
 
